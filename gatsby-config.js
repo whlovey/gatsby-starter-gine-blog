@@ -7,7 +7,7 @@ module.exports = {
             }
         },
         {
-            resolve: `gatsby-source-notion-database`,
+            resolve: `@conradlin/gatsby-source-notion-database`,
             options: {
                 configTable: "https://www.notion.so/0068e7043f4f4ca9a7ddb571ad89f77d?v=66f2808c65054ecda830526a87e3b420"
             }
